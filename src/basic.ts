@@ -7,5 +7,7 @@ let nera: undefined = undefined
 
 // name = 5
 
+let isSummer: boolean | number = true
+isSummer = 0
 
 export {}
